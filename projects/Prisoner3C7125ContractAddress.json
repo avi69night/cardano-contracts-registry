@@ -1,0 +1,20 @@
+{
+   0aef539d79b2d9201f949d511f83ade4e345872d992cb4edfd308f96: {
+      Prisoner3C7125: {
+         name: "Prisoner3C7125",
+         image: "ipfs://QmSQq5DYiJRYmw9SCdUPrCNrutvZXyFE3bpkEQNxXDntrH",
+         mediaType: "image/png",
+         description: "Awesome Bald Criminal",
+         files: [
+            {
+               name: "Prisoner3C7125",
+               mediaType: "image/png",
+               src: "ipfs://QmSQq5DYiJRYmw9SCdUPrCNrutvZXyFE3bpkEQNxXDntrH"
+            }
+         ],
+         Head: "Bald",
+         Hand: "Lolipop"
+      }
+   },
+   version: "1.0"
+}
